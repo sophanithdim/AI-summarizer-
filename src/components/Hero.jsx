@@ -11,17 +11,17 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/TidbitsJS/Summize", "_blank")
+            window.open("https://www.sckcanvas.co.th/", "_blank")
           }
           className='black_btn'
         >
-          GitHub
+          SCK.canvas
         </button>
       </nav>
 
       <h1 className='head_text'>
         Summarize Articles with <br className='max-md:hidden' />
-        <span className='orange_gradient '>OpenAI GPT-4</span>
+        <span className='blue_gradient '>OpenAI GPT-4</span>
       </h1>
       <h2 className='desc'>
         Simplify your reading with Summize, an open-source article summarizer
